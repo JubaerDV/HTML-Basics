@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=230&section=header&text=Basic%20HTML%20Learn&fontSize=42&fontColor=FF0000&animation=fadeIn&fontAlignY=38&desc=Hyper%20Text%20Markup Language%20%7C%20HTML%20Learning&structure=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=230&section=header&text=Basic%20HTML%20Learn&fontSize=42&fontColor=FF0000&animation=fadeIn&fontAlignY=38&desc=Hyper%20Text%20Markup%20%7C%20HTML%20Learning&Language=60&descSize=18" width="100%"/>
 
 <br/>
 
