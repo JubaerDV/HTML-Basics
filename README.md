@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="YOUR_ANIMATED_GIF_URL" alt="HTML Learning Journey">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=🟢+Level+1+—+HTML+Basics;📚+Learning+HTML;💻+Building+My+Foundation;🚀+HTML+Learning+Journey"
+    alt="Typing Animation"
+  />
 </p>
-
-<h1 align="center">🟢 Level 1 — HTML Basics</h1>
 
 # 🟢 Level 1 — HTML Basics
 
