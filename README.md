@@ -1,7 +1,18 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&repeat=true&width=500&lines=🟢+Level+1+—+HTML+Basics" alt="🟢 Level 1 — HTML Basics" />
-</p>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=230&section=header&text=Md%20Jubaer%20Hossen&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Web%20Developer%20%7C%20Frontend%20Developer&descAlignY=60&descSize=18" width="100%"/>
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+profile+%F0%9F%91%8B;Aspiring+Web+Developer+%F0%9F%92%BB;Frontend+Developer+%F0%9F%8E%A8;Building+Modern+Web+Experiences+%F0%9F%9A%80;Learning+%7C+Building+%7C+Improving+%E2%9C%A8" alt="Typing SVG"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=JubaerDV&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" alt="Profile Views"/>
+
+</div>
 # 🟢 Level 1 — HTML Basics
 
 > 🚀 **My HTML Learning Journey — From Beginner to Web Developer**
